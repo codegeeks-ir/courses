@@ -1,0 +1,10 @@
+VERSION:3 SOURCE_TIMESTAMP:51636E6E
+NODE:I LEVEL:0 LINE:1 "C:\cvavreval\inc\mega16.h"
+NODE:I LEVEL:0 LINE:2 "C:\cvavreval\inc\delay.h"
+NODE:V LEVEL:0 LINE:5 "i -> R5"
+NODE:V LEVEL:0 LINE:5 "j -> R4"
+NODE:V LEVEL:0 LINE:5 "k -> R7"
+NODE:V LEVEL:0 LINE:5 "l -> R6"
+NODE:V LEVEL:0 LINE:5 "delay -> R9"
+NODE:F LEVEL:0 LINE:7 "MaskNumber(int number)"
+NODE:F LEVEL:0 LINE:25 "main(void)"

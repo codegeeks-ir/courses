@@ -1,0 +1,8 @@
+VERSION:3 SOURCE_TIMESTAMP:519C567C
+NODE:I LEVEL:0 LINE:17 "C:\cvavr\inc\mega16.h"
+NODE:I LEVEL:0 LINE:18 "C:\cvavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:19 "C:\cvavr\inc\alcd.h"
+NODE:I LEVEL:0 LINE:20 "C:\cvavr\inc\stdio.h"
+NODE:M LEVEL:0 LINE:23 "ADC_VREF_TYPE"
+NODE:F LEVEL:0 LINE:26 "read_adc(unsigned char adc_input)"
+NODE:F LEVEL:0 LINE:39 "main(void)"

@@ -1,0 +1,10 @@
+VERSION:3 SOURCE_TIMESTAMP:5189064E
+NODE:I LEVEL:0 LINE:18 "C:\cvavr\inc\mega16.h"
+NODE:I LEVEL:0 LINE:19 "C:\cvavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:20 "C:\cvavr\inc\alcd.h"
+NODE:V LEVEL:0 LINE:22 "rowNumber -> R5"
+NODE:V LEVEL:0 LINE:23 "rowChars -> RAM:????"
+NODE:F LEVEL:0 LINE:25 "AssignRowChars(unsigned char ch0,unsigned char ch1,unsigned char ch2,unsigned char ch3)"
+NODE:F LEVEL:0 LINE:32 "ChooseRelatedRow(void)"
+NODE:F LEVEL:0 LINE:52 "CheckRow(void)"
+NODE:F LEVEL:0 LINE:81 "main(void)"
