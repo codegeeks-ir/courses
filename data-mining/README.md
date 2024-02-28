@@ -1,4 +1,5 @@
 ---
-title: "داده کاوی"
+slug: data-mining
+title: داده کاوی
+format: page
 ---
-# داده کاوی

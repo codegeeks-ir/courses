@@ -1,4 +1,5 @@
 ---
-title: "هوش محاسباتی"
+slug: computational-intelligence
+title: هوش محاسباتی
+format: page
 ---
-# هوش محاسباتی

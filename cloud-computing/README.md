@@ -1,4 +1,5 @@
 ---
-title: "محاسبات ابری"
+slug: cloud-computing
+title: محاسبات ابری
+format: page
 ---
-# محاسبات ابری

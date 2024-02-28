@@ -1,4 +1,5 @@
 ---
+slug: language-theory
 title: "نظریه زبان و ماشین‌ها"
+format: page
 ---
-# نظریه زبان و ماشین‌ها

@@ -1,4 +1,5 @@
 ---
-title: "طراحی الگوریتم"
+slug: algorithm-design
+title: طراحی الگوریتم
+format: page
 ---
-# طراحی الگوریتم

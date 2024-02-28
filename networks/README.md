@@ -1,4 +1,5 @@
 ---
-title: "شبکه"
+slug: networks
+title: شبکه
+format: page
 ---
-# شبکه

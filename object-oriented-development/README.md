@@ -1,4 +1,5 @@
 ---
-title: "شی گرایی"
+slug: object-oriented-development
+title: شی‌گرایی
+format: page
 ---
-# شی گرایی

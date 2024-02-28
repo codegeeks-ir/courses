@@ -1,4 +1,5 @@
 ---
-title: "ساختمان داده"
+slug: data-structures
+title: ساختمان داده
+format: page
 ---
-# ساختمان داده

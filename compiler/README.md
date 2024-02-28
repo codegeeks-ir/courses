@@ -1,4 +1,5 @@
 ---
-title: "کامپایلر"
+slug: compiler
+title: کامپایلر
+format: page
 ---
-# کامپایلر

@@ -1,4 +1,5 @@
 ---
-title: "چند رسانه ای"
+slug: multimedia
+title: چندرسانه‌ای
+format: page
 ---
-# چند رسانه ای

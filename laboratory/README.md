@@ -1,4 +1,5 @@
 ---
-title: "آزمایشگاه"
+slug: laboratory
+title: آزمایشگاه
+format: page
 ---
-# آزمایشگاه

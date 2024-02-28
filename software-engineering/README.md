@@ -1,4 +1,5 @@
 ---
-title: "مهندسی نرم افزار"
+slug: software-engineering
+title: مهندسی نرم‌افزار
+format: page
 ---
-# مهندسی نرم افزار

@@ -1,4 +1,5 @@
 ---
-title: "روش پژوهش و ارائه"
+slug: presentation
+title: روش پژوهش و ارائه
+format: page
 ---
-# روش پژوهش و ارائه

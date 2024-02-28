@@ -1,4 +1,5 @@
 ---
-title: "پایگاه داده"
+slug: data-base
+title: پایگاه داده
+format: page
 ---
-# پایگاه داده
